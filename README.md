@@ -1,6 +1,6 @@
 # React Training Project
 
-https://travis-ci.org/albertoperezf/react-training.svg?branch=master
+![Build TravisCI Status](https://travis-ci.org/albertoperezf/react-training.svg?branch=master)
 
 > Repo for the complete training course from [React Training](https://reacttraining.com/).
 
